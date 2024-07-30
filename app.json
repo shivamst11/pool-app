@@ -2,6 +2,11 @@
   "expo": {
     "name": "pool",
     "slug": "pool",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "02011817-a3e1-4953-8e9f-f464bbef8cc4"
+      }
+    }
   }
 }
